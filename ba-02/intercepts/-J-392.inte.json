@@ -8,32 +8,44 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
+        "fn": 259,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
         "value": 0.0
     },
     "Ar37": {
-        "error": 0.0058110239763112395,
+        "error": 0.005811023968966231,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "linear",
-        "value": 0.038760029075436644
+        "fit": "Linear",
+        "fn": 271,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.038760029181259495
     },
     "Ar38": {
-        "error": 0.004786984898824336,
+        "error": 0.00478698490408304,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "linear",
-        "value": 0.004334811086472228
+        "fit": "Linear",
+        "fn": 268,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.004334811262825431
     },
     "Ar39": {
-        "error": 0.010163541780953921,
+        "error": 0.010163541757034367,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -41,10 +53,14 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": -0.1455549347247566
+        "fn": 266,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": -0.14555493343016557
     },
     "Ar40": {
-        "error": 0.007904500960743995,
+        "error": 0.007904500967299244,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -52,7 +68,11 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": 0.031875007859118065
+        "fn": 265,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.03187500770049804
     },
     "Ar41": {
         "error": 0.0052353913609561945,
