@@ -1,0 +1,41 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_signal": null,
+        "points": "QLuuaD5+EF1Au7biPjC2/EC7v1s+M5wVQLvH1T57OehAu9BOPqI/s0C72Mg+jPzBQLvhQT6kkEpAu+m7PvgL/0C78jQ/C0vlQLv6rj8kgqNAvAMnPyXM1kC8C6E/QHiNQLwUGj9Ie0hAvByTPydzIEC8JQ0/OK4RQLwthj8yskJAvDYAPyDlPkC8Pnk/MIUOQLxG8z8r4bpAvE9sPymXwkC8V+Y/NQigQLxgXz8grmxAvGjZPv2Z1kC8cVI+p4yfQLx5zD6kNR9AvIJFPm3VkkC8ir8+ZVWqQLyTOD5Uky1AvJuxPm/mYUC8pCs+l6NB"
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_signal": null,
+        "points": "QLuuaAAAAABAu7biAAAAAEC7v1s6R13wQLvH1TsLjo9Au9BOO1tNvkC72Mg7+TVzQLvhQTxnw6dAu+m7PNtN00C78jQ9ZeVUQLv6rj4J2D9AvAMnPqCCVUC8C6E+/UQjQLwUGj8Y4TJAvByTPx/jokC8JQ0/JbEJQLwthj8c9/NAvDYAPx0pzEC8Pnk/HfEuQLxG8z8cdlpAvE9sPxulAEC8V+Y/FzSGQLxgXz8Vw6tAvGjZPxA8EEC8cVI/AksnQLx5zD60mjdAvIJFPit9D0C8ir89VvF1QLyTODwagmxAvJuxOp9+WkC8pCs5n35Z"
+    },
+    "H1": {
+        "center_dac": 5.88013018036072,
+        "center_signal": 197.07127106513872,
+        "high_dac": 5.888035991983967,
+        "high_signal": 143.60683485579932,
+        "low_dac": 5.8722243687374736,
+        "low_signal": 145.72297229943212,
+        "points": "QLuuaD8WCEtAu7biPUePoUC7v1s/SWx6QLvH1UBMeKpAu9BOQUDK20C72MhCG4KWQLvhQUK4i7JAu+m7QxRgRkC78jRDNivUQLv6rkNB6/FAvAMnQ0T2y0C8C6FDRNHQQLwUGkNE9MlAvByTQ0T1jUC8JQ1DRNC6QLwthkNEz7xAvDYAQ0TLwkC8PnlDRH85QLxG80NEMsFAvE9sQ0ObekC8V+ZDQLWLQLxgX0M3jEdAvGjZQx3iF0C8cVJCqUsMQLx5zEIH2oZAvIJFQQpKuEC8ir8/rKs9QLyTOL2WqM9AvJuxvnv6U0C8pCu+g2dH"
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_signal": null,
+        "points": "QLuuaL4bB2dAu7bivKoOU0C7v1u9N2khQLvH1bzZZ3RAu9BOvSJs1kC72Mi9yyADQLvhQb16fqdAu+m7O8Jg4EC78jS9GUYbQLv6rr2/PGRAvAMnPIj9GEC8C6E9BEo8QLwUGry+vPdAvByTvIDdqUC8JQ28GSppQLwthrx20VpAvDYAPNMgyEC8Pnm909avQLxG87y0ywxAvE9svaUSbkC8V+Y9XwFdQLxgX70Z7w5AvGjZveQZM0C8cVK9ie/QQLx5zL1caEpAvIJFPMEqM0C8ir+9xXrCQLyTOLz6fkNAvJuxvAtvKUC8pCu9DBMQ"
+    },
+    "fmt": ">ff",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
