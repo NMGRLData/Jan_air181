@@ -1,9 +1,19 @@
 {
     "Ar36": {
-        "error": 0.00014894234801542653,
+        "error": 5.539739994714548e-05,
         "error_type": "",
-        "fit": "Preceding",
+        "fit": "Average_SEM",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-502",
+                "uuid": "2ac3cbd0-fb51-4a63-894b-e93f62f48bc3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-503",
+                "uuid": "6eda3897-e8ca-4625-b51e-40052b2fd513"
+            },
             {
                 "exclude": "ok",
                 "record_id": "ba-02-J-504",
@@ -71,13 +81,23 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0019763620691604306
+        "value": 0.0019979419921657897
     },
     "Ar37": {
-        "error": 0.006039282406735728,
+        "error": 0.0024923815667933307,
         "error_type": "",
-        "fit": "Preceding",
+        "fit": "Average_SEM",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-502",
+                "uuid": "2ac3cbd0-fb51-4a63-894b-e93f62f48bc3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-503",
+                "uuid": "6eda3897-e8ca-4625-b51e-40052b2fd513"
+            },
             {
                 "exclude": "ok",
                 "record_id": "ba-02-J-504",
@@ -145,13 +165,23 @@
             }
         ],
         "reviewed": true,
-        "value": 0.04105068348264772
+        "value": 0.03314948387635052
     },
     "Ar38": {
-        "error": 0.0019582377340281428,
+        "error": 0.0011433981691444598,
         "error_type": "",
-        "fit": "Preceding",
+        "fit": "Average_SEM",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-502",
+                "uuid": "2ac3cbd0-fb51-4a63-894b-e93f62f48bc3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-503",
+                "uuid": "6eda3897-e8ca-4625-b51e-40052b2fd513"
+            },
             {
                 "exclude": "ok",
                 "record_id": "ba-02-J-504",
@@ -219,13 +249,23 @@
             }
         ],
         "reviewed": true,
-        "value": 0.003060448968764312
+        "value": 0.005890377145172608
     },
     "Ar39": {
-        "error": 0.011327517164586425,
+        "error": 0.0030823612694898085,
         "error_type": "",
-        "fit": "Preceding",
+        "fit": "Average_SEM",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-502",
+                "uuid": "2ac3cbd0-fb51-4a63-894b-e93f62f48bc3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-503",
+                "uuid": "6eda3897-e8ca-4625-b51e-40052b2fd513"
+            },
             {
                 "exclude": "ok",
                 "record_id": "ba-02-J-504",
@@ -293,13 +333,23 @@
             }
         ],
         "reviewed": true,
-        "value": 0.058164980955445714
+        "value": 0.046813342799583796
     },
     "Ar40": {
-        "error": 0.009783517056007952,
+        "error": 0.015440703403051351,
         "error_type": "",
-        "fit": "Preceding",
+        "fit": "Average_SD",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-502",
+                "uuid": "2ac3cbd0-fb51-4a63-894b-e93f62f48bc3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-02-J-503",
+                "uuid": "6eda3897-e8ca-4625-b51e-40052b2fd513"
+            },
             {
                 "exclude": "ok",
                 "record_id": "ba-02-J-504",
@@ -367,7 +417,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.12587724850637988
+        "value": 0.1286462904521744
     },
     "Ar41": {
         "error": 0.0035937751565868746,
